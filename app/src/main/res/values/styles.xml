@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Application Theme -->
+    <style name="Theme.ScrapYard" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryOrange</item>
+        <item name="colorPrimaryVariant">@color/primaryOrangeDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/primaryOrange</item>
+        <item name="colorSecondaryVariant">@color/primaryOrangeDark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/backgroundGrey</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/textPrimary</item>
+        <item name="colorError">@color/errorRed</item>
+        <item name="android:statusBarColor">@color/primaryOrangeDark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Alias so AndroidManifest @style/ScrapYard resolves correctly -->
+    <style name="ScrapYard" parent="Theme.ScrapYard" />
+
+    <!-- Toolbar Style -->
+    <style name="ScrapYard.Toolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@color/primaryOrange</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="navigationIconTint">@color/white</item>
+    </style>
+
+    <!-- FAB Style -->
+    <style name="ScrapYard.FAB" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">@color/primaryOrange</item>
+        <item name="tint">@color/white</item>
+    </style>
+
+    <!-- Primary Button -->
+    <style name="ScrapYard.Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/primaryOrange</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:paddingEnd">20dp</item>
+    </style>
+
+    <!-- Text Button -->
+    <style name="ScrapYard.Button.Text" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/primaryOrange</item>
+    </style>
+
+    <!-- Card Style -->
+    <style name="ScrapYard.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">14dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+
+    <!-- EditText Style -->
+    <style name="ScrapYard.InputField">
+        <item name="android:background">@drawable/bg_input_field</item>
+        <item name="android:paddingStart">14dp</item>
+        <item name="android:paddingEnd">14dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/textPrimary</item>
+        <item name="android:textColorHint">@color/textHint</item>
+    </style>
+
+</resources>

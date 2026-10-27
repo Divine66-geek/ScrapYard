@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primaryOrange">#FF6B00</color>
+    <color name="primaryOrangeDark">#E55C00</color>
+    <color name="primaryOrangeLight">#FF8C33</color>
+    <color name="primaryOrangeAlpha">#1AFF6B00</color>
+
+    <!-- Background Colors -->
+    <color name="backgroundGrey">#F4F5F7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cardBackground">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#1A1A2E</color>
+    <color name="textSecondary">#7A7A8C</color>
+    <color name="textHint">#BCBCCC</color>
+
+    <!-- Status Colors -->
+    <color name="successGreen">#2ECC71</color>
+    <color name="warningYellow">#F39C12</color>
+    <color name="errorRed">#E74C3C</color>
+
+    <!-- UI Element Colors -->
+    <color name="dividerColor">#EEEFF2</color>
+    <color name="inputBorder">#E0E0E8</color>
+    <color name="shadowColor">#1A000000</color>
+
+    <!-- Material Theme Colors -->
+    <color name="colorPrimary">#FF6B00</color>
+    <color name="colorPrimaryVariant">#E55C00</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#FF6B00</color>
+    <color name="colorSecondaryVariant">#E55C00</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorBackground">#F4F5F7</color>
+    <color name="colorOnBackground">#1A1A2E</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#1A1A2E</color>
+    <color name="colorError">#E74C3C</color>
+    <color name="colorOnError">#FFFFFF</color>
+</resources>

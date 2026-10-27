@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\drawable_bg_badge_orange.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\drawable\\bg_badge_orange.xml"
+    },
+    {
+        "merged": "com.scrapyard.app-debug-36:/mipmap_ic_launcher.xml.flat",
+        "source": "com.scrapyard.app-main-38:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_item_seller_card.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\item_seller_card.xml"
+    },
+    {
+        "merged": "com.scrapyard.app-debug-36:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.scrapyard.app-main-38:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_item_report_seller.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\item_report_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\drawable_bg_avatar_circle.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\drawable\\bg_avatar_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_activity_add_transaction.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\activity_add_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_activity_reports.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\activity_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_activity_add_seller.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\activity_add_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_activity_seller_detail.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\activity_seller_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\drawable_bg_stat_box.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\drawable\\bg_stat_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.scrapyard.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.scrapyard.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\drawable_bg_input_field.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\drawable\\bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-debug-36:\\layout_activity_seller_list.xml.flat",
+        "source": "C:\\Users\\masek\\.gradle\\daemon\\9.0.0\\com.scrapyard.app-main-38:\\layout\\activity_seller_list.xml"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scrap Yard</string>
+    <string name="add_seller">Add Seller</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="seller_list">All Sellers</string>
+    <string name="reports">Reports</string>
+    <string name="seller_detail">Seller Details</string>
+    <string name="search_hint">Search sellers by name or ID…</string>
+    <string name="no_sellers">No sellers registered yet.\nTap + to add your first seller.</string>
+    <string name="no_transactions">No transactions for this seller yet.</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_label">Full Name</string>
+    <string name="national_id_label">National ID / Reference</string>
+    <string name="weight_label">Weight (kg)</string>
+    <string name="amount_label">Amount (R)</string>
+    <string name="notes_label">Notes (optional)</string>
+    <string name="new_transaction">New Transaction</string>
+</resources>
